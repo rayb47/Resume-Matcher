@@ -1,4 +1,4 @@
-# Resume ↔ Job Description Matcher
+# Resume and Job Description Matcher
 
 A Streamlit app that compares a resume with a job description using NLP and semantic embeddings to estimate match quality and identify skill gaps.
 
@@ -10,7 +10,7 @@ This project uses **spaCy**, **Sentence Transformers**, and **cosine similarity*
 
 * Upload resume as PDF
 * Paste job description text
-* Resume ↔ JD semantic similarity score
+* Resume and JD semantic similarity score
 * Skill extraction using NLP noun chunks
 * Skill validation using a skill taxonomy
 * Semantic skill matching
